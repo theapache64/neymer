@@ -7,7 +7,7 @@
 </a>
 
 
-> Sometimes you'll need stylish and unique project names while keeping it's meaningfulness 
+> Sometimes you'll need a stylish and unique project name without compromising its meaning 😋
 
 ### ✨ Demo
 
